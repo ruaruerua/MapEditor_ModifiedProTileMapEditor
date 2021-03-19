@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 69b6aaf984a5440529bcb3b31e5b22fe
+labels:
+- RuntimeEditor
+- RuntimeMapEditor
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

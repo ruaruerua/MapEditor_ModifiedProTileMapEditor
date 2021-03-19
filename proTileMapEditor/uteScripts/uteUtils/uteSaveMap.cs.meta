@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bb0e3bc609864ade84577cc442cf26b
+labels:
+- TileBased
+- ProTileMapEditor
+- Level
+- MapEditor
+- LevelEditor
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,8 @@
+You can hold F and pick / filter tile from the scene.^False^-230^$
+You can switch between build modes by pressing TAB.^True^-230^$
+You can switch to Erase Mode quickly by pressing T.^True^-230^$
+You can press C or X to move grid UP/DOWN.^False^-230^$
+You can move/rotate camera either using ALT+Mouse or Mouse Middle Drag or using W,A,S,D,Q,E keys.^True^120^$
+You can enable build line helpers by pressing V.^False^-230^$
+You have much more general settings in Window->proTileMapEditor->Settings-Controls.^False^-15^$
+
